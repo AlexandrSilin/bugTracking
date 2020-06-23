@@ -1,0 +1,29 @@
+[Sun Jun 21 22:17:16 MSK 2020] Project qwe added
+[Sun Jun 21 22:20:06 MSK 2020] User qwe, first name: qwe, last name: qwe added
+[Mon Jun 22 17:15:46 MSK 2020] User qwe, first name: qwe, last name: qwe added
+[Mon Jun 22 18:15:17 MSK 2020] User anime, first name: qwe, last name: qwe added
+[Mon Jun 22 18:15:22 MSK 2020] Error (add user): this username already exists.
+[Mon Jun 22 18:15:22 MSK 2020] User qwe, first name: qwe, last name: qwe added
+[Mon Jun 22 18:19:54 MSK 2020] User 123, first name: qwe, last name: qwe added
+[Mon Jun 22 18:20:00 MSK 2020] Project proj added
+[Mon Jun 22 18:20:06 MSK 2020] Error (add task): no such project exists.
+[Mon Jun 22 18:20:06 MSK 2020] Error (add task): no such user exists.
+[Mon Jun 22 18:30:16 MSK 2020] User user, first name: qwe, last name: qwe added
+[Mon Jun 22 18:30:21 MSK 2020] User user1, first name: qwe, last name: qwe added
+[Mon Jun 22 18:30:25 MSK 2020] Project proj added
+[Mon Jun 22 18:30:28 MSK 2020] Error (add project): this project already exists.
+[Mon Jun 22 18:30:30 MSK 2020] Task th type: ty added to project proj
+[Mon Jun 22 23:29:10 MSK 2020] User user, first name: qwe, last name: qwe added
+[Mon Jun 22 23:29:18 MSK 2020] Project proj added
+[Mon Jun 22 23:29:26 MSK 2020] User user1, first name: qwe, last name: dsa added
+[Mon Jun 22 23:29:31 MSK 2020] Project ppp added
+[Mon Jun 22 23:29:34 MSK 2020] Task tt type: ty added to project proj
+[Tue Jun 23 08:18:37 MSK 2020] User user, first name: user, last name: user added
+[Tue Jun 23 08:18:44 MSK 2020] Project proj added
+[Tue Jun 23 08:18:47 MSK 2020] User user1, first name: user1, last name: user1 added
+[Tue Jun 23 08:18:55 MSK 2020] Project proj1 added
+[Tue Jun 23 08:18:58 MSK 2020] Task theme type: type added to project proj
+[Tue Jun 23 09:58:46 MSK 2020] Error (delete project): No such project exists.
+[Tue Jun 23 09:58:52 MSK 2020]Error (delete task): No such tusk exists.
+[Tue Jun 23 10:08:30 MSK 2020] Storage loaded from Storage.txt
+[Tue Jun 23 10:08:30 MSK 2020] Storage saved to Storage.txt
