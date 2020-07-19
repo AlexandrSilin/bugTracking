@@ -1,29 +1,220 @@
-[Sun Jun 21 22:17:16 MSK 2020] Project qwe added
-[Sun Jun 21 22:20:06 MSK 2020] User qwe, first name: qwe, last name: qwe added
-[Mon Jun 22 17:15:46 MSK 2020] User qwe, first name: qwe, last name: qwe added
-[Mon Jun 22 18:15:17 MSK 2020] User anime, first name: qwe, last name: qwe added
-[Mon Jun 22 18:15:22 MSK 2020] Error (add user): this username already exists.
-[Mon Jun 22 18:15:22 MSK 2020] User qwe, first name: qwe, last name: qwe added
-[Mon Jun 22 18:19:54 MSK 2020] User 123, first name: qwe, last name: qwe added
-[Mon Jun 22 18:20:00 MSK 2020] Project proj added
-[Mon Jun 22 18:20:06 MSK 2020] Error (add task): no such project exists.
-[Mon Jun 22 18:20:06 MSK 2020] Error (add task): no such user exists.
-[Mon Jun 22 18:30:16 MSK 2020] User user, first name: qwe, last name: qwe added
-[Mon Jun 22 18:30:21 MSK 2020] User user1, first name: qwe, last name: qwe added
-[Mon Jun 22 18:30:25 MSK 2020] Project proj added
-[Mon Jun 22 18:30:28 MSK 2020] Error (add project): this project already exists.
-[Mon Jun 22 18:30:30 MSK 2020] Task th type: ty added to project proj
-[Mon Jun 22 23:29:10 MSK 2020] User user, first name: qwe, last name: qwe added
-[Mon Jun 22 23:29:18 MSK 2020] Project proj added
-[Mon Jun 22 23:29:26 MSK 2020] User user1, first name: qwe, last name: dsa added
-[Mon Jun 22 23:29:31 MSK 2020] Project ppp added
-[Mon Jun 22 23:29:34 MSK 2020] Task tt type: ty added to project proj
-[Tue Jun 23 08:18:37 MSK 2020] User user, first name: user, last name: user added
-[Tue Jun 23 08:18:44 MSK 2020] Project proj added
-[Tue Jun 23 08:18:47 MSK 2020] User user1, first name: user1, last name: user1 added
-[Tue Jun 23 08:18:55 MSK 2020] Project proj1 added
-[Tue Jun 23 08:18:58 MSK 2020] Task theme type: type added to project proj
-[Tue Jun 23 09:58:46 MSK 2020] Error (delete project): No such project exists.
-[Tue Jun 23 09:58:52 MSK 2020]Error (delete task): No such tusk exists.
-[Tue Jun 23 10:08:30 MSK 2020] Storage loaded from Storage.txt
-[Tue Jun 23 10:08:30 MSK 2020] Storage saved to Storage.txt
+июл. 19, 2020 10:04:10 AM UserConsole choice
+SEVERE: This username already exists
+июл. 19, 2020 10:05:15 AM UserConsole choice
+SEVERE: This username already exists
+
+июл. 19, 2020 10:19:56 AM UserConsole UserConsole
+INFO: Storage loaded from iuh
+июл. 19, 2020 10:19:56 AM UserConsole UserConsole
+SEVERE: File not found
+июл. 19, 2020 10:20:07 AM UserConsole UserConsole
+INFO: Storage loaded from Storage.txt
+июл. 19, 2020 10:20:08 AM UserConsole UserConsole
+INFO: Storage saved to Storage.txt
+июл. 19, 2020 10:21:53 AM UserConsole UserConsole
+SEVERE: File not found
+июл. 19, 2020 10:22:00 AM UserConsole UserConsole
+INFO: Storage loaded from Storage.txt
+июл. 19, 2020 10:22:02 AM UserConsole UserConsole
+INFO: Storage saved to Storage.txt
+июл. 19, 2020 11:56:17 AM UserConsole UserConsole
+INFO: Storage loaded from Storage.txt
+июл. 19, 2020 11:57:00 AM managers.UserManager addUser
+SEVERE: This username already exists
+июл. 19, 2020 11:57:10 AM managers.UserManager addUser
+INFO: Useruser2, first name: user2, last name: user2 added
+июл. 19, 2020 11:57:20 AM managers.ProjectManager addProject
+INFO: Project proj2 added
+июл. 19, 2020 11:57:43 AM managers.TaskManager addTask
+INFO: Task qqq type: eee added to project proj2
+июл. 19, 2020 11:57:50 AM UserConsole UserConsole
+INFO: Storage saved to Storage.txt
+июл. 19, 2020 11:58:00 AM UserConsole UserConsole
+INFO: Storage loaded from Storage.txt
+июл. 19, 2020 11:58:17 AM UserConsole UserConsole
+INFO: Storage saved to Storage.txt
+июл. 19, 2020 12:03:54 PM UserConsole UserConsole
+INFO: Storage loaded from Storage.txt
+
+июл. 19, 2020 12:34:19 PM UserConsole UserConsole
+INFO: Storage loaded from Storage.txt
+июл. 19, 2020 12:34:26 PM managers.UserManager removeUser
+SEVERE: Error (delete user): Cannot delete current user.
+июл. 19, 2020 12:34:41 PM UserConsole UserConsole
+INFO: Storage saved to Storage.txt
+июл. 19, 2020 12:35:25 PM UserConsole UserConsole
+INFO: Storage loaded from Storage.txt
+июл. 19, 2020 12:35:29 PM managers.UserManager removeUser
+SEVERE: Error (delete user): no such user exists.
+июл. 19, 2020 12:35:41 PM managers.UserManager removeUser
+SEVERE: Error (delete user): Cannot delete current user.
+июл. 19, 2020 12:35:55 PM UserConsole UserConsole
+INFO: Storage saved to Storage.txt
+июл. 19, 2020 12:41:31 PM UserConsole UserConsole
+INFO: Storage loaded from Storage.txt
+июл. 19, 2020 12:41:46 PM UserConsole UserConsole
+INFO: Storage saved to Storage.txt
+июл. 19, 2020 12:42:24 PM UserConsole UserConsole
+INFO: Storage loaded from Storage.txt
+июл. 19, 2020 12:42:30 PM UserConsole UserConsole
+INFO: Storage saved to Storage.txt
+июл. 19, 2020 12:42:52 PM UserConsole UserConsole
+INFO: Storage loaded from Storage.txt
+июл. 19, 2020 12:43:30 PM UserConsole UserConsole
+INFO: Storage saved to Storage.txt
+июл. 19, 2020 12:52:31 PM UserConsole UserConsole
+INFO: Storage loaded from Storage.txt
+июл. 19, 2020 12:53:06 PM UserConsole UserConsole
+INFO: Storage saved to Storage.txt
+июл. 19, 2020 12:54:37 PM UserConsole UserConsole
+INFO: Storage loaded from Storage.txt
+июл. 19, 2020 12:54:50 PM UserConsole UserConsole
+INFO: Storage saved to Storage.txt
+июл. 19, 2020 1:08:13 PM UserConsole UserConsole
+INFO: Storage loaded from Storage.txt
+июл. 19, 2020 1:08:33 PM UserConsole UserConsole
+INFO: Storage saved to Storage.txt
+июл. 19, 2020 1:11:54 PM UserConsole UserConsole
+INFO: Storage loaded from Storage.txt
+июл. 19, 2020 1:12:02 PM managers.ProjectManager removeProject
+SEVERE: Error (delete project): No such project exists.
+июл. 19, 2020 1:12:11 PM managers.ProjectManager removeProject
+SEVERE: Error (delete project): Cannot delete current (proj) project
+июл. 19, 2020 1:12:25 PM UserConsole UserConsole
+INFO: Storage saved to Storage.txt
+июл. 19, 2020 5:33:07 PM managers.UserManager addUser
+INFO: Useruser1, first name: user1, last name: user1 added
+июл. 19, 2020 5:33:07 PM managers.UserManager addUser
+INFO: Useruser2, first name: user2, last name: user2 added
+июл. 19, 2020 5:33:07 PM managers.UserManager addUser
+INFO: Useruser, first name: user, last name: user added
+июл. 19, 2020 5:33:07 PM managers.ProjectManager addProject
+INFO: Project proj2 added
+июл. 19, 2020 5:33:07 PM managers.ProjectManager addProject
+INFO: Project proj added
+июл. 19, 2020 5:33:07 PM managers.ProjectManager addProject
+INFO: Project proj1 added
+июл. 19, 2020 5:33:07 PM managers.TaskManager addTask
+INFO: Task qqq type: eee added to project proj2
+июл. 19, 2020 5:33:07 PM managers.TaskManager addTask
+INFO: Task theme type: type added to project proj
+июл. 19, 2020 5:33:07 PM UserConsole main
+INFO: Storage loaded from Storage.txt
+июл. 19, 2020 5:33:25 PM UserConsole main
+INFO: Storage saved to Storage.txt
+июл. 19, 2020 5:33:43 PM UserConsole main
+SEVERE: File not found
+июл. 19, 2020 5:33:50 PM UserConsole main
+SEVERE: File not found
+июл. 19, 2020 5:33:56 PM managers.UserManager addUser
+INFO: Useruser, first name: user, last name: user added
+июл. 19, 2020 5:33:56 PM managers.UserManager addUser
+INFO: Useruser1, first name: user1, last name: user1 added
+июл. 19, 2020 5:33:56 PM managers.UserManager addUser
+INFO: Useruser2, first name: user2, last name: user2 added
+июл. 19, 2020 5:33:56 PM managers.ProjectManager addProject
+INFO: Project proj1 added
+июл. 19, 2020 5:33:56 PM managers.ProjectManager addProject
+INFO: Project proj2 added
+июл. 19, 2020 5:33:56 PM managers.ProjectManager addProject
+INFO: Project proj added
+июл. 19, 2020 5:33:56 PM managers.TaskManager addTask
+INFO: Task theme type: type added to project proj
+июл. 19, 2020 5:33:56 PM managers.TaskManager addTask
+INFO: Task qqq type: eee added to project proj2
+июл. 19, 2020 5:33:56 PM UserConsole main
+INFO: Storage loaded from Storage.txt
+июл. 19, 2020 5:34:07 PM UserConsole main
+INFO: Storage saved to Storage.txt
+июл. 19, 2020 5:34:18 PM managers.UserManager addUser
+INFO: Useruser, first name: user, last name: user added
+июл. 19, 2020 5:34:18 PM managers.UserManager addUser
+INFO: Useruser1, first name: user1, last name: user1 added
+июл. 19, 2020 5:34:18 PM managers.UserManager addUser
+INFO: Useruser2, first name: user2, last name: user2 added
+июл. 19, 2020 5:34:18 PM managers.ProjectManager addProject
+INFO: Project proj2 added
+июл. 19, 2020 5:34:18 PM managers.ProjectManager addProject
+INFO: Project proj1 added
+июл. 19, 2020 5:34:18 PM managers.ProjectManager addProject
+INFO: Project proj added
+июл. 19, 2020 5:34:18 PM managers.TaskManager addTask
+INFO: Task theme type: type added to project proj
+июл. 19, 2020 5:34:19 PM managers.TaskManager addTask
+INFO: Task qqq type: eee added to project proj2
+июл. 19, 2020 5:34:19 PM UserConsole main
+INFO: Storage loaded from Storage.txt
+июл. 19, 2020 5:34:21 PM UserConsole main
+INFO: Storage saved to Storage.txt
+июл. 19, 2020 5:34:32 PM managers.UserManager addUser
+INFO: Useruser2, first name: user2, last name: user2 added
+июл. 19, 2020 5:34:32 PM managers.UserManager addUser
+INFO: Useruser, first name: user, last name: user added
+июл. 19, 2020 5:34:32 PM managers.UserManager addUser
+INFO: Useruser1, first name: user1, last name: user1 added
+июл. 19, 2020 5:34:32 PM managers.ProjectManager addProject
+INFO: Project proj added
+июл. 19, 2020 5:34:32 PM managers.ProjectManager addProject
+INFO: Project proj2 added
+июл. 19, 2020 5:34:32 PM managers.ProjectManager addProject
+INFO: Project proj1 added
+июл. 19, 2020 5:34:32 PM managers.TaskManager addTask
+INFO: Task qqq type: eee added to project proj2
+июл. 19, 2020 5:34:32 PM managers.TaskManager addTask
+INFO: Task theme type: type added to project proj
+июл. 19, 2020 5:34:32 PM UserConsole main
+INFO: Storage loaded from Storage.txt
+июл. 19, 2020 5:34:42 PM managers.UserManager addUser
+INFO: Useroupo, first name: yugu, last name: oioh added
+июл. 19, 2020 5:35:13 PM managers.ProjectManager addProject
+INFO: Project Proj added
+июл. 19, 2020 5:35:18 PM UserConsole main
+INFO: Storage saved to Storage.txt
+июл. 19, 2020 5:48:24 PM managers.UserManager addUser
+INFO: Useruser1, first name: user1, last name: user1 added
+июл. 19, 2020 5:48:24 PM managers.UserManager addUser
+INFO: Useruser2, first name: user2, last name: user2 added
+июл. 19, 2020 5:48:24 PM managers.UserManager addUser
+INFO: Useroupo, first name: yugu, last name: oioh added
+июл. 19, 2020 5:48:24 PM managers.UserManager addUser
+INFO: Useruser, first name: user, last name: user added
+июл. 19, 2020 5:48:24 PM managers.ProjectManager addProject
+INFO: Project Proj added
+июл. 19, 2020 5:48:24 PM managers.ProjectManager addProject
+INFO: Project proj1 added
+июл. 19, 2020 5:48:24 PM managers.ProjectManager addProject
+INFO: Project proj added
+июл. 19, 2020 5:48:24 PM managers.ProjectManager addProject
+INFO: Project proj2 added
+июл. 19, 2020 5:48:24 PM managers.TaskManager addTask
+INFO: Task theme type: type added to project proj
+июл. 19, 2020 5:48:24 PM managers.TaskManager addTask
+INFO: Task qqq type: eee added to project proj2
+июл. 19, 2020 5:48:24 PM UserConsole main
+INFO: Storage loaded from Storage.txt
+июл. 19, 2020 5:48:41 PM UserConsole main
+INFO: Storage saved to Storage.txt
+июл. 19, 2020 6:16:20 PM managers.UserManager addUser
+INFO: User user1, first name: user1, last name: user1 added
+июл. 19, 2020 6:16:20 PM managers.UserManager addUser
+INFO: User user2, first name: user2, last name: user2 added
+июл. 19, 2020 6:16:20 PM managers.UserManager addUser
+INFO: User oupo, first name: yugu, last name: oioh added
+июл. 19, 2020 6:16:20 PM managers.UserManager addUser
+INFO: User user, first name: user, last name: user added
+июл. 19, 2020 6:16:20 PM managers.ProjectManager addProject
+INFO: Project proj1 added
+июл. 19, 2020 6:16:20 PM managers.ProjectManager addProject
+INFO: Project Proj added
+июл. 19, 2020 6:16:20 PM managers.ProjectManager addProject
+INFO: Project proj added
+июл. 19, 2020 6:16:20 PM managers.ProjectManager addProject
+INFO: Project proj2 added
+июл. 19, 2020 6:16:20 PM managers.TaskManager addTask
+INFO: Task theme type: type added to project proj
+июл. 19, 2020 6:16:20 PM managers.TaskManager addTask
+INFO: Task qqq type: eee added to project proj2
+июл. 19, 2020 6:16:20 PM UserConsole main
+INFO: Storage loaded from Storage.txt
+июл. 19, 2020 6:16:26 PM UserConsole main
+INFO: Storage saved to Storage.txt
